@@ -1,0 +1,3 @@
+addi t0, zero, 0x1
+sw t0, 0x10(t0)
+lb t1, 0x10(t0)
